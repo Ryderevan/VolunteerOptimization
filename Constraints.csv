@@ -1,0 +1,4 @@
+constraint,value
+min_gap_church,8
+num_weeks,52
+max_consecutive_gap,1
